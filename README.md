@@ -14,8 +14,8 @@ The usage of multiple prebuilt models have been used in order to classify the im
 This project is for using CT scans to identify corona using Deep learning.
 This project comes under the initiative to delve into usage of Deep learning in Medical Imaging field.
 
-## Paper
-A research paper is being currently worked on this project.
+## Acknowledgment
+This project has been done under the guidance of Dr. Uthayakumar G S.
 
 ## Contact
 For any doubts or contributions please contact venkatramnank@gmail.com .
